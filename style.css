@@ -153,7 +153,6 @@ div .info {
     flex-direction: column;
     flex: 1 1 100%;
     background-color:#e5e7eb;
-    padding: 75px;
     
 }
 
@@ -181,6 +180,7 @@ div .info {
     font-size: 20px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
+    margin: 2px;
 }
 
 .fourth {
